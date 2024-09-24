@@ -15,7 +15,6 @@ dist/
 
 # ccs stuff
 .ccsproject
-.cproject
 .project
 .settings/
 
