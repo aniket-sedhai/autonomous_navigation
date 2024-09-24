@@ -1,3 +1,6 @@
 [submodule "firmware/src/hal/hal_interface_submodules/hal_uart_interface/hal-uart-interface"]
 	path = firmware/src/hal/hal_interface_submodules/hal_uart_interface/hal-uart-interface
 	url = https://github.com/aniket-sedhai/hal-uart-interface.git
+[submodule "firmware/src/hal/hal_msp432_submodules/hal_uart_msp432/hal-uart-msp432"]
+	path = firmware/src/hal/hal_msp432_submodules/hal_uart_msp432/hal-uart-msp432
+	url = https://github.com/aniket-sedhai/hal-uart-msp432.git
