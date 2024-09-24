@@ -1,0 +1,3 @@
+[submodule "firmware/src/hal/hal_interface_submodules/hal_uart_interface/hal-uart-interface"]
+	path = firmware/src/hal/hal_interface_submodules/hal_uart_interface/hal-uart-interface
+	url = https://github.com/aniket-sedhai/hal-uart-interface.git
